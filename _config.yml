@@ -22,11 +22,46 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: intermobilesoft
 github_username:  iospab
 
+# Set default og:image
+
+# ----------------------------------------------------------------------------
+# Customize Options: Optional
+#
+# See: https://material.io/guidelines/style/color.html
+# Use color-name-value, like pink-200 or deep-purple-100
+brand_color: "amber-400"
+
+# How article URLs are structured.
+# See: https://jekyllrb.com/docs/permalinks/
+permalink: posts/:title/
+
+# "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# Language.
+lang: "en"
+
+num_posts_visible_initially: 1
+
+# Date format: See http://strftime.net/
+date_format: "%b %-d, %Y"
+# ----------------------------------------------------------------------------
+
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - mix-manifest.json
+  - webpack.mix.js
+  - yarn.lock
+  - package.json
+  - hot
+  - LICENSE.txt
+
+plugins_dir:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-readme-index
