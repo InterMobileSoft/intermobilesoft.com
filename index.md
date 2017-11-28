@@ -9,11 +9,14 @@ layout: default
 
 Since 2011, InterMobileSoft has helped local entrepreneurs and early-stage startups with creating high-quality, stable, native iOS applications. In most cases, apps are built from scratch.
 
+Think we can work together? Let's chat!
+Contact [hi@intermobilesoft.com](mailto:hi@intermobilesoft.com).
+
 **InterMobileSoft can help with:**
 
 * Rapid prototyping.
 * Developing iOS apps for iPhone and iPad using Swift.
-* Post-launch project maintenance. 
+* Post-launch project maintenance.
 * Rigorous quality assurance testing.
 * Translating complex UI programmatically or with Interface Builder.
 * Project and product planning.
@@ -24,7 +27,7 @@ Since 2011, InterMobileSoft has helped local entrepreneurs and early-stage start
 * Support for rich push notifications.
 * App Store compliance review.
 * UI/UX review.
-* Training junior developers. 
+* Training junior developers.
 
 **Projects featured in the App Store include:**
 
@@ -44,7 +47,27 @@ Since 2011, InterMobileSoft has helped local entrepreneurs and early-stage start
 
 * [forCME](https://cme.formd.com/)
 
-Think we can work together? Let's chat! Contact [hi@intermobilesoft.com](mailto:hi@intermobilesoft.com).
+**InterMobileSoft uses the following software and services during development:**
+
+* [Xcode](https://developer.apple.com/xcode/)
+* [git](https://git-scm.com/)
+* [CocoaPods](https://cocoapods.org/)
+* [Gitlab](https://about.gitlab.com/)
+* [Trello](https://trello.com/)
+* [Slack](https://slack.com/)
+* [Paw](https://paw.cloud/)
+* [Reveal](https://revealapp.com/)
+* [SwiftLint and SwiftFormat](https://github.com/realm/SwiftLint)
+* [Fastlane](https://fastlane.tools/)
+* [Fabric](https://get.fabric.io/)
+* [Sketch](https://www.sketchapp.com/)
+* [InVision](https://www.invisionapp.com/)
+* [Monodraw](https://monodraw.helftone.com/)
+* [MacDown](https://macdown.uranusjr.com/)
+* [Homebrew](https://brew.sh/)
+* [iTerm](https://iterm2.com/)
+* [Netlify](https://www.netlify.com/)
+
 
 `© 2017 InterMobileSoft`
 
