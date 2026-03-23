@@ -48,6 +48,9 @@ date_format: "%b %-d, %Y"
 # ----------------------------------------------------------------------------
 
 # Build settings
+include:
+  - .well-known
+
 exclude:
   - Gemfile
   - Gemfile.lock
